@@ -1,14 +1,10 @@
 # Shell Things
 Custom menus, commands, and features for Nilesoft Shell.
 
-| Title | Description |
-| --- | --- |
-| | |
+## Table of contents
 
-<details>
-<summary>
+- [Download from clipboard](#)
+
+--------------------
+
 ## Download from clipboard
-</summary>
-
-Sample text here.
-</details>
