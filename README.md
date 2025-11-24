@@ -6,9 +6,9 @@ Custom menus, commands, and features for Nilesoft Shell.
 | | |
 
 <details>
-    <summary>
-    ## Download from clipboard
-    </summary>
-    
-    Sample text here.
+<summary>
+## Download from clipboard
+</summary>
+
+Sample text here.
 </details>
