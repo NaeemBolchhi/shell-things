@@ -1,5 +1,5 @@
 # Shell Things
-Custom menus, commands, and features for Nilesoft Shell.
+Custom menus and commands for Nilesoft Shell.
 
 ## Table of contents
 
