@@ -6,7 +6,9 @@ Custom menus and commands for Nilesoft Shell.
 - [Download from clipboard](#download-from-clipboard)
 - [View in Edge PDF Reader](#view-in-edge-pdf-reader)
 
---------------------
+---
+
+<br />
 
 ### Download from clipboard
 
@@ -18,6 +20,8 @@ item(where=str.len(clipboard.get)>0 title='Download from clipboard' image=image.
 ```
 * Location:
     * Appears as the last item in the `File manage` menu.
+
+<br />
 
 ### View in Edge PDF Reader
 
