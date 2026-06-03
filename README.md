@@ -26,7 +26,7 @@ item(where=str.len(clipboard.get)>0 title='Download from clipboard' image=image.
 ### View in Edge PDF Reader
 
 * Prerequisites:
-    * None
+    * Microsoft Edge: `winget install Microsoft.Edge`
 * Shell Code:
 ```
 item(type='file' find='.pdf' mode='multiple' title='View in Edge PDF Reader' image='@sys.prog32\Microsoft\Edge\Application\msedge.exe,0' window='hidden' cmd='cmd.exe' args='/c for %F in (@sel(true)) do start "" "@sys.prog32\Microsoft\Edge\Application\msedge.exe" --app="file:///%~F"' pos=1)
